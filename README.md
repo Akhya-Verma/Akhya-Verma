@@ -29,28 +29,43 @@
 ---
 
 ## 🚀 Featured Projects:
-📌 **Machine Learning - Anomaly Detection**  
+### 🏥 **Unsupervised Anomaly Detection in Healthcare Data**  
 🔗 [GitHub Repo](https://github.com/akhyaverma/anomaly-detection)  
 📊 **Technologies:** Python, Scikit-Learn, Unsupervised Learning  
 📌 **Achievements:** Improved fraud detection accuracy by 15%  
 
-📌 **Movie Recommendation System**  
+### 🎬 **Movie Recommendation System**  
 🔗 [GitHub Repo](https://github.com/akhyaverma/movie-recommendation)  
-🎬 **Uses Content-Based Filtering & Streamlit**  
+🎯 **Built using Content-Based Filtering & Streamlit**  
 📌 **Optimized for movies with 7+ ratings**
 
-📌 **Spam Detection Model**  
+### 📧 **Spam Detection Model**  
 🔗 [GitHub Repo](https://github.com/akhyaverma/spam-detection)  
-🛡️ **99% accuracy using NLP & ML**  
+🛡️ **Achieved 99% accuracy using NLP & ML**  
 📌 **Dataset: spam.csv | Built with: Scikit-learn, NLTK**
+
+### 🌍 **Adventour - India Tourism Website**  
+🔗 [GitHub Repo](https://github.com/akhyaverma/adventour)  
+🌟 **Built using HTML, CSS, JavaScript, APIs**  
+📌 **Attracted 10,000+ visitors & increased site subscriptions by 15%**
+
+### 🔊 **Gesture-Based System Volume Control**  
+🔗 [GitHub Repo](https://github.com/akhyaverma/gesture-control)  
+🖐️ **Used OpenCV & MediaPipe for fingertip detection**  
+📌 **Enhanced accessibility for physically challenged users**
+
+### 🛒 **E-commerce & Meme Generator Websites**  
+🔗 [GitHub Repo](https://github.com/akhyaverma/ecommerce-site)  
+💡 **Implemented responsive design & interactive UI**  
 
 ---
 
 ## 🌍 Connect with Me:
 <p align="center">
-  <a href="https://linkedin.com/in/akhyaverma"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/></a>
+  <a href="https://www.linkedin.com/in/akhyaverma"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/akhyaverma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.instagram.com/your_instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://leetcode.com/your_leetcode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
