@@ -43,45 +43,45 @@
 </p>
 
 ---
-
+<!--
 ## 📈 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akhyaverma&show_icons=true&theme=radical" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhyaverma&theme=radical" width="400px"/>
-</p>
+</p>-->
 
 ---
 
 ## 🚀 Featured Projects:
 
 ### 🏥 **Unsupervised Anomaly Detection in Healthcare Data**  
-🔗 [GitHub Repo](https://github.com/akhyaverma/anomaly-detection)  
+🔗 [GitHub Repo](https://github.com/malay42/Unsupervised-Anomaly-Detection-on-Healthcare-providers-data_Infosys_Internship_Oct2024)  
 📊 **Technologies:** Python, Scikit-Learn, Unsupervised Learning  
 📌 **Achievements:** Improved fraud detection accuracy by 15%  
-
+<!--
 ### 🎬 **Movie Recommendation System**  
 🔗 [GitHub Repo](https://github.com/akhyaverma/movie-recommendation)  
 🎯 **Built using Content-Based Filtering & Streamlit**  
-📌 **Optimized for movies with 7+ ratings**  
+📌 **Optimized for movies with 7+ ratings**  -->
 
 ### 📧 **Spam Detection Model**  
-🔗 [GitHub Repo](https://github.com/akhyaverma/spam-detection)  
+🔗 [GitHub Repo](https://github.com/Akhya-Verma/spam-detection-)  
 🛡️ **Achieved 99% accuracy using NLP & ML**  
 📌 **Dataset: spam.csv | Built with: Scikit-learn, NLTK**  
-
+<!--
 ### 🌍 **Adventour - India Tourism Website**  
 🔗 [GitHub Repo](https://github.com/akhyaverma/adventour)  
 🌟 **Built using HTML, CSS, JavaScript, APIs**  
 📌 **Attracted 10,000+ visitors & increased site subscriptions by 15%**  
-
+<!--
 ### 🔊 **Gesture-Based System Volume Control**  
 🔗 [GitHub Repo](https://github.com/akhyaverma/gesture-control)  
 🖐️ **Used OpenCV & MediaPipe for fingertip detection**  
-📌 **Enhanced accessibility for physically challenged users**  
+📌 **Enhanced accessibility for physically challenged users**  -->
 
 ### 🛒 **E-commerce & Meme Generator Websites**  
-🔗 [GitHub Repo](https://github.com/akhyaverma/ecommerce-site)  
+🔗 [GitHub Repo](https://github.com/Akhya-Verma/amazonclone-homepage)  
 💡 **Implemented responsive design & interactive UI**  
 
 ---
