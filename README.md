@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 <b>Machine Learning | DevOps | Web Developer</b> <br>
-  📍 <b>ML Intern at Infosys Springboard | DevOps Trainee</b> <br>
+  📍 <b>ML Intern at Infosys Springboard </b> <br>
   🎯 <b>Passionate about AI, Data Science, and Cloud Technologies!</b>
 </p>
 
