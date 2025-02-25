@@ -56,12 +56,12 @@
 ## 🚀 Featured Projects:
 
 ### 🏥 **Unsupervised Anomaly Detection in Healthcare Data**  
-🔗 [GitHub Repo](https://github.com/malay42/Unsupervised-Anomaly-Detection-on-Healthcare-providers-data_Infosys_Internship_Oct2024)  
+🔗 [GitHub Repo](https://github.com/malay42/Unsupervised-Anomaly-Detection-on-Healthcare-providers-data_Infosys_Internship_Oct2024/tree/akhya-verma)  
 📊 **Technologies:** Python, Scikit-Learn, Unsupervised Learning  
 📌 **Achievements:** Improved fraud detection accuracy by 15%  
-<!--
-### 🎬 **Movie Recommendation System**  
-🔗 [GitHub Repo](https://github.com/akhyaverma/movie-recommendation)  
+
+### 🎬 **Anime Recommendation System**  
+🔗 [GitHub Repo](https://github.com/Akhya-Verma/Anime-Recommendation-System)  
 🎯 **Built using Content-Based Filtering & Streamlit**  
 📌 **Optimized for movies with 7+ ratings**  -->
 
