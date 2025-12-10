@@ -2,10 +2,11 @@
 
 <p align="center">
   🚀 <b>Machine Learning | DevOps | Web Developer</b> <br>
-  📍 <b>ML Intern at Infosys Springboard </b> <br>
-  🎯 <b>Passionate about AI, Data Science, and Cloud Technologies!</b>
-</p>
+  📍 <b>ML Intern at Infosys Springboard</b> <br>
+  🎯 <b>Passionate about AI, Data Science, and Cloud Technologies!</b> <br><br>
 
+  🔗 <a href="https://akhyaverma.vercel.app"><b>🌐 Visit My Portfolio</b></a>
+</p>
 ---
 
 ## 🚀 Tech Stack & Tools:
